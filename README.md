@@ -8,7 +8,7 @@
 2. [Google Drive](https://drive.google.com/drive/folders/1_oDC0mpXIAc013O8Lg83KPEgBYd-f68W?usp=share_link)
 3. [Github Release](https://github.com/Maoyeedy/Qiyu_UnityProject/releases)
 
-### Clone this repo
-1. Github Desktop
-2. Git LFS
-3. Get *Qiyu_UnityProject.7z* at [Release](https://github.com/Maoyeedy/Qiyu_UnityProject/releases)
+### Get the project
+```powershell
+git clone https://github.com/Maoyeedy/Qiyu_UnityProject.git
+```
