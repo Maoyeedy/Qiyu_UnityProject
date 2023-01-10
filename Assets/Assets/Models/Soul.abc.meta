@@ -1,0 +1,103 @@
+fileFormatVersion: 2
+guid: 2990de2d04b8b1d46a97d99ff1791c2f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '1/1:000:'
+    second: {fileID: 2100000, guid: 3df83306cdfe4864884fa059c80ae0a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '10/10:000:'
+    second: {fileID: 2100000, guid: b5706d66d8d3e5e449729c1943542a2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '11/11:000:'
+    second: {fileID: 2100000, guid: 2452ea5b5fbdd564d93ef28d06ed4d71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '13/13:000:'
+    second: {fileID: 2100000, guid: 79adb2b99b0ebe540b5095152e21f5d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '14/14:000:'
+    second: {fileID: 2100000, guid: 3924a9571689b634aa61d12228668e48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '15/15:000:'
+    second: {fileID: 2100000, guid: 21762b2f4b3cffb4897fe490ab3576c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '2/2:000:'
+    second: {fileID: 2100000, guid: 5d59aaa467728ad45983c329d59846d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '3/3:000:'
+    second: {fileID: 2100000, guid: 0cf58743eec1d474e9140ecae15b40c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '4/4:000:'
+    second: {fileID: 2100000, guid: 418f9f29a5abd1c4cbced4a05cab6db6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '5/5:000:'
+    second: {fileID: 2100000, guid: 1c3a281d33050ae41aaacd54026e8daf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '7/7:000:'
+    second: {fileID: 2100000, guid: ad98e809e0dd675449eb4335d146955b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '8/8:000:'
+    second: {fileID: 2100000, guid: bb83a9b29a91f5d418ce29f1c8d61de6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '9/9:000:'
+    second: {fileID: 2100000, guid: 778b4bc26d0192141ab59206e8c9c07f, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f53f5fc499d31e44b9deee84d28a9ee8, type: 3}
+  rootGameObjectId: 
+  rootGameObjectName: 
+  importerVersion: 1
+  streamSettings:
+    normals: 1
+    tangents: 1
+    cameraAspectRatio: 2
+    importVisibility: 1
+    scaleFactor: 0.1
+    swapHandedness: 1
+    flipFaces: 0
+    interpolateSamples: 1
+    importPointPolygon: 1
+    importLinePolygon: 1
+    importTrianglePolygon: 1
+    importXform: 1
+    importCameras: 1
+    importMeshes: 1
+    importPoints: 0
+    importCurves: 1
+    createCurveRenderers: 0
+  abcStartTime: 0.8333333333333334
+  abcEndTime: 3.3333333333333335
+  startTime: 0.8333333333333334
+  endTime: 3.3333333333333335
+  importWarning: 
+  firstImport: 0
+  isHDF5: 0

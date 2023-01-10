@@ -1,0 +1,73 @@
+Date : 2023-01-10 05:04:49
+Directory : c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts
+Total : 46 files,  1801 codes, 0 comments, 333 blanks, all 2134 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C#       |         46 |      1,801 |          0 |        333 |      2,134 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                      | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                         |         46 |      1,801 |          0 |        333 |      2,134 |
+| . (Files)                                                                                 |         34 |      1,403 |          0 |        263 |      1,666 |
+| End                                                                                       |          4 |        123 |          0 |         24 |        147 |
+| MiniGames                                                                                 |          8 |        275 |          0 |         46 |        321 |
++-------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                  | language | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\ArrowDirection.cs                     | C#       |          9 |          0 |          2 |         11 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\AudioContinuePlay.cs                  | C#       |          8 |          0 |          1 |          9 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\CameraHandHeld.cs                     | C#       |         30 |          0 |          7 |         37 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\CameraPhotoMode.cs                    | C#       |        112 |          0 |         23 |        135 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\CameraPhotoModeActivation.cs          | C#       |         56 |          0 |          9 |         65 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\CameraZoom.cs                         | C#       |        115 |          0 |         27 |        142 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\ColliderOffset.cs                     | C#       |         10 |          0 |          2 |         12 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\CursorDisable.cs                      | C#       |          8 |          0 |          1 |          9 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\Dialog.cs                             | C#       |        146 |          0 |         23 |        169 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\DialogDisplay.cs                      | C#       |         52 |          0 |          8 |         60 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\End\EndScreen.cs                      | C#       |         42 |          0 |          8 |         50 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\End\Outro.cs                          | C#       |         26 |          0 |          7 |         33 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\End\PlayTimeCounter.cs                | C#       |         26 |          0 |          4 |         30 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\End\PlayTimeDisplay.cs                | C#       |         29 |          0 |          5 |         34 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\EscSettings.cs                        | C#       |         59 |          0 |         12 |         71 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\EscToggle.cs                          | C#       |         44 |          0 |          9 |         53 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\Fade.cs                               | C#       |         63 |          0 |         14 |         77 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\FadeIn3D.cs                           | C#       |         28 |          0 |          4 |         32 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\FadeOnRespawnScene1.cs                | C#       |         22 |          0 |          3 |         25 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\FadeOnRespawnScene2.cs                | C#       |         33 |          0 |          6 |         39 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\MiniGames\DNA.cs                      | C#       |        107 |          0 |         14 |        121 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\MiniGames\DNASwitch.cs                | C#       |         14 |          0 |          2 |         16 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\MiniGames\ProgressBar.cs              | C#       |         34 |          0 |          8 |         42 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\MiniGames\ProgressBarFade.cs          | C#       |         11 |          0 |          2 |         13 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\MiniGames\ProgressBarSetBlackToRed.cs | C#       |         25 |          0 |          5 |         30 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\MiniGames\Scanner.cs                  | C#       |         41 |          0 |          9 |         50 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\MiniGames\ScannerSwitch.cs            | C#       |         14 |          0 |          2 |         16 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\MiniGames\SwitchCam.cs                | C#       |         29 |          0 |          4 |         33 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\Penguin.cs                            | C#       |         58 |          0 |         10 |         68 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\PenguinSoul.cs                        | C#       |         80 |          0 |         15 |         95 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\PenguinWaimanu2.cs                    | C#       |         25 |          0 |          7 |         32 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\PingPong.cs                           | C#       |         15 |          0 |          3 |         18 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\PlayerDisableRun.cs                   | C#       |         19 |          0 |          3 |         22 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\PlayerEnableJump.cs                   | C#       |         24 |          0 |          5 |         29 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\PlayerFirstPersonRotate.cs            | C#       |         10 |          0 |          2 |         12 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\PlayerGroundCheck.cs                  | C#       |         34 |          0 |          8 |         42 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\PlayerRespawn.cs                      | C#       |         35 |          0 |          8 |         43 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\PlayerRespawnPointUpdate.cs           | C#       |         75 |          0 |          7 |         82 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\SwitchScene.cs                        | C#       |         14 |          0 |          3 |         17 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\SwitchSceneFade.cs                    | C#       |         11 |          0 |          2 |         13 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\SwitchSceneToScene.cs                 | C#       |         79 |          0 |         18 |         97 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\ToggleButtonTip.cs                    | C#       |         22 |          0 |          3 |         25 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\ToggleTipScene0.cs                    | C#       |         42 |          0 |          6 |         48 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\ToggleTipScene1.cs                    | C#       |         25 |          0 |          5 |         30 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\ToggleUI&Music.cs                     | C#       |         17 |          0 |          2 |         19 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\TypeWriterEffect.cs                   | C#       |         23 |          0 |          5 |         28 |
+| Total                                                                                     |          |      1,801 |          0 |        333 |      2,134 |
++-------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

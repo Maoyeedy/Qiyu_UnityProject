@@ -1,0 +1,32 @@
+Date : 2023-01-10 21:26:32
+Directory : c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts
+Total : 7 files,  33 codes, 1 comments, 1 blanks, all 35 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C#       |          7 |         33 |          1 |          1 |         35 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                       | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                          |          7 |         33 |          1 |          1 |         35 |
+| End                                                                        |          2 |          1 |          0 |         -1 |          0 |
++----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                   | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\CameraInvokeZoomIn.cs  | C#       |          0 |          0 |         -1 |         -1 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\CameraZoom.cs          | C#       |          0 |          0 |         -1 |         -1 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\Dialog.cs              | C#       |          0 |          0 |         -1 |         -1 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\DialogDisplay.cs       | C#       |          9 |          1 |          2 |         12 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\End\EndScreen.cs       | C#       |          1 |          0 |          0 |          1 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\End\PlayTimeDisplay.cs | C#       |          0 |          0 |         -1 |         -1 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\FadeIn3D.cs            | C#       |         23 |          0 |          3 |         26 |
+| Total                                                                      |          |         33 |          1 |          1 |         35 |
++----------------------------------------------------------------------------+----------+------------+------------+------------+------------+

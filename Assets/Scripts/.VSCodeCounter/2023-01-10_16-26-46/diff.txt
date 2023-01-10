@@ -1,0 +1,34 @@
+Date : 2023-01-10 16:26:46
+Directory : c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts
+Total : 8 files,  37 codes, 0 comments, 14 blanks, all 51 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C#       |          8 |         37 |          0 |         14 |         51 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                            | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                               |          8 |         37 |          0 |         14 |         51 |
+| . (Files)                                                                       |          6 |         38 |          0 |         14 |         52 |
+| End                                                                             |          2 |         -1 |          0 |          0 |         -1 |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                        | language | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\CameraInvokeZoomIn.cs       | C#       |         24 |          0 |          5 |         29 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\CameraZoom.cs               | C#       |         10 |          0 |          2 |         12 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\Dialog.cs                   | C#       |         -1 |          0 |          1 |          0 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\End\EndScreen.cs            | C#       |          0 |          0 |         -1 |         -1 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\End\PlayTimeDisplay.cs      | C#       |         -1 |          0 |          1 |          0 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\Fade.cs                     | C#       |          0 |          0 |         -1 |         -1 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\PlayerRespawnPointUpdate.cs | C#       |         -5 |          0 |          2 |         -3 |
+| c:\Users\maoyeedy\Downloads\The.Game\Assets\Scripts\SwitchSceneToScene.cs       | C#       |         10 |          0 |          5 |         15 |
+| Total                                                                           |          |         37 |          0 |         14 |         51 |
++---------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
