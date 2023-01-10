@@ -11,4 +11,4 @@
 ### Clone this repo
 1. Github Desktop
 2. Git LFS
-3. Download *Qiyu_UnityProject.7z* at [Github Release](https://github.com/Maoyeedy/Qiyu_UnityProject/releases)
+3. Get *Qiyu_UnityProject.7z* at [Release](https://github.com/Maoyeedy/Qiyu_UnityProject/releases)
