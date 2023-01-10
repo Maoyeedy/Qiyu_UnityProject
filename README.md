@@ -9,6 +9,6 @@
 3. [Github Release](https://github.com/Maoyeedy/Qiyu_UnityProject/releases)
 
 ### Get the project
-```powershell
+```bash
 git clone https://github.com/Maoyeedy/Qiyu_UnityProject.git
 ```
