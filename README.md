@@ -2,6 +2,8 @@
 ## [Showcase Video](https://www.bilibili.com/video/BV1vD4y1p7cu)
 - [x]  Builds for Windows & Linux
 - [ ]  Builds for Mac & WebGL
+- [ ]  Controller Support
+- [ ]  English Support
 - Supports Windows & Linux. Mac & WebGL not supported.
 - Mouse & Keyboard only. Controller support on schedule.
 - Chinese only. English support...maybe
