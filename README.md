@@ -24,14 +24,7 @@
 </div>
 
 ### Get the project
+As the repo is only 300MB, Git LFS won't be needed. You can directly clone or download repo as zip.
 ```bash
 git clone https://github.com/Maoyeedy/Qiyu_UnityProject.git
 ```
-As the repo is only 300MB, Git LFS won't be needed. You can directly clone or download repo as zip.
-
-<small> Note: This is only relevant for repos under a certain size, for bigger repos Git LFS will be necessary to manage larger files.</small>
-
-As the repo is only 300MB, Git LFS won't be needed. You can directly clone or download repo as zip.
-
-##### Note:
-This is only relevant for repos under a certain size, for bigger repos Git LFS will be necessary to manage larger files.
