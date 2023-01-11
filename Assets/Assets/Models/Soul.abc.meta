@@ -21,6 +21,11 @@ ScriptedImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: '11/Body_001:000:'
+    second: {fileID: 2100000, guid: 3df83306cdfe4864884fa059c80ae0a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: '13/13:000:'
     second: {fileID: 2100000, guid: 79adb2b99b0ebe540b5095152e21f5d0, type: 2}
   - first:
@@ -81,7 +86,7 @@ ScriptedImporter:
     tangents: 1
     cameraAspectRatio: 2
     importVisibility: 1
-    scaleFactor: 0.1
+    scaleFactor: 1
     swapHandedness: 1
     flipFaces: 0
     interpolateSamples: 1

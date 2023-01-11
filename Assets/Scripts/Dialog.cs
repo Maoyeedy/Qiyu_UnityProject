@@ -51,7 +51,7 @@ public class Dialog : MonoBehaviour
 
         _elapsedTime += Time.deltaTime;
 
-        if (Input.GetKeyDown(KeyCode.Escape)) _uiOn = !_uiOn;
+        if (Input.GetKeyDown(KeyCode.Backspace)) _uiOn = !_uiOn;
 
         if ((Input.GetMouseButtonDown(0) && !_uiOn) || Input.GetKeyDown(KeyCode.Return)) SwitchLine();
 

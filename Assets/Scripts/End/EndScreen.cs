@@ -29,7 +29,7 @@ public class EndScreen : Fade
             Invoke(nameof(LoadScene1), fadeWhite.GetComponent<Fade>().fadeDuration);
         }
 
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (Input.GetKeyDown(KeyCode.Backspace))
         {
             if (playAudio)
                 audioSus.Play();

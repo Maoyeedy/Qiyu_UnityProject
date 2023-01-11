@@ -474,6 +474,9 @@ PlayerSettings:
   - m_BuildTarget: Standalone
     m_StaticBatching: 1
     m_DynamicBatching: 1
+  - m_BuildTarget: WebGL
+    m_StaticBatching: 1
+    m_DynamicBatching: 1
   m_BuildTargetShaderSettings: []
   m_BuildTargetGraphicsJobs:
   - m_BuildTarget: MacStandaloneSupport
@@ -539,6 +542,8 @@ PlayerSettings:
     m_EncodingQuality: 2
   - m_BuildTarget: Windows Store Apps
     m_EncodingQuality: 2
+  - m_BuildTarget: WebGL
+    m_EncodingQuality: 2
   m_BuildTargetGroupHDRCubemapEncodingQuality:
   - m_BuildTarget: Standalone
     m_EncodingQuality: 2
@@ -548,6 +553,8 @@ PlayerSettings:
     m_EncodingQuality: 1
   - m_BuildTarget: Windows Store Apps
     m_EncodingQuality: 2
+  - m_BuildTarget: WebGL
+    m_EncodingQuality: 1
   m_BuildTargetGroupLightmapSettings: []
   m_BuildTargetGroupLoadStoreDebugModeSettings: []
   m_BuildTargetNormalMapEncoding: []
@@ -842,7 +849,7 @@ PlayerSettings:
   suppressCommonWarnings: 1
   allowUnsafeCode: 0
   useDeterministicCompilation: 1
-  selectedPlatform: 0
+  selectedPlatform: 2
   additionalIl2CppArgs: 
   scriptingRuntimeVersion: 1
   gcIncremental: 1

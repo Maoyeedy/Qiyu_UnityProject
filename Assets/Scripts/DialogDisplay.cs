@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.Serialization;
 
 public class DialogDisplay : MonoBehaviour
 {
@@ -17,7 +16,6 @@ public class DialogDisplay : MonoBehaviour
     [Header("For Scene 1 Portal")] public bool activatePenguinSoul;
     public PenguinSoul penguinSoul;
     [Header("For Scene 2 Portal")] public bool activatePortal;
-    [FormerlySerializedAs("portal")] public FadeIn3D portalBlockCube;
     public GameObject portal;
 
     private void Awake()

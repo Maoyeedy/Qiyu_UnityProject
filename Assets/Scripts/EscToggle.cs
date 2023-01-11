@@ -24,7 +24,7 @@ public class EscToggleUI : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (Input.GetKeyDown(KeyCode.Backspace))
             ToggleUI();
     }
 

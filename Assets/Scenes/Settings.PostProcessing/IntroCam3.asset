@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a34fa72bd4185749832024e9c8010bf, type: 3}
   m_Name: ScreenSpaceReflections
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
@@ -99,7 +99,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 2.8
+    value: 2.5
   threshold:
     overrideState: 1
     value: 0.65
@@ -244,10 +244,10 @@ MonoBehaviour:
     value: 0
   postExposure:
     overrideState: 1
-    value: 1.3
+    value: 1.55
   contrast:
     overrideState: 1
-    value: 12
+    value: 6
   mixerRedOutRedIn:
     overrideState: 0
     value: 100
@@ -277,12 +277,12 @@ MonoBehaviour:
     value: 100
   lift:
     overrideState: 1
-    value: {x: 0.9445064, y: 1, z: 0.9841819, w: -0.031830575}
+    value: {x: 0.9445064, y: 1, z: 0.9841819, w: -0.018738285}
   gamma:
     overrideState: 0
     value: {x: 1, y: 1, z: 1, w: 0.18683785}
   gain:
-    overrideState: 1
+    overrideState: 0
     value: {x: 1, y: 1, z: 1, w: 0.06426736}
   masterCurve:
     overrideState: 0
@@ -1505,7 +1505,7 @@ MonoBehaviour:
     value: 0
   intensity:
     overrideState: 1
-    value: 0.35
+    value: 0.6
   color:
     overrideState: 0
     value: {r: 0, g: 0, b: 0, a: 1}
@@ -1531,5 +1531,5 @@ MonoBehaviour:
     overrideState: 0
     value: 0.15
   quality:
-    overrideState: 0
-    value: 4
+    overrideState: 1
+    value: 3
