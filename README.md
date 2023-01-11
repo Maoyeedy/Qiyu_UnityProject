@@ -32,6 +32,6 @@ git clone https://github.com/Maoyeedy/Qiyu_UnityProject.git
 
 ### WebGL
 There's a [WebGL version](https://play.unity.com/mg/other/webgl-v1s) but it's not functional as intended:
-1. As mouse cursor can't go beyond window border, you'll have limited view angle in WebGL.
+1. As mouse cursor can't go beyond screen border, you'll have limited view angle.
 2. You might fail to load the game if you're using Chinese networking.
 3. Lighting in Intro Scene is far worse than Windows/Linux builds.
