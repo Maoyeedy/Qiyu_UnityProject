@@ -1,5 +1,5 @@
 ![2](https://user-images.githubusercontent.com/100255436/211665714-782d981d-e8de-427d-bcbd-99a86bac1a81.jpg)
-- Have builds for Windows/Mac/Linux.
+- Have builds for Windows/Linux.
 - Mouse & Keyboard only. Controller support on schedule.
 - Chinese only. English support...maybe
 
