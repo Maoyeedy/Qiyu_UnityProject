@@ -1,5 +1,5 @@
-## [Showcase Video](https://www.bilibili.com/video/BV1vD4y1p7cu)
 ![2](https://user-images.githubusercontent.com/100255436/211665714-782d981d-e8de-427d-bcbd-99a86bac1a81.jpg)
+## [Showcase Video](https://www.bilibili.com/video/BV1vD4y1p7cu)
 - Have builds for Windows/Linux.
 - Mouse & Keyboard only. Controller support on schedule.
 - Chinese only. English support...maybe
@@ -23,7 +23,7 @@
   <img src="https://user-images.githubusercontent.com/100255436/211787060-61d6a450-b1ba-48b4-929b-de3131960fa0.jpg" style="width:49%;float:right; margin-left:2%">
 </div>
 
-### Get the project
+#### Get the project
 As the repo is only 300MB, Git LFS won't be needed. You can directly clone or download repo as zip.
 ```bash
 git clone https://github.com/Maoyeedy/Qiyu_UnityProject.git
