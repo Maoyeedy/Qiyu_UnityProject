@@ -30,14 +30,11 @@ There's a [WebGL version](https://play.unity.com/mg/other/webgl-builds-295530) b
 2. Cursor is limited to window border, resulting in restricted view angle.
 3. Lighting in Intro Scene is far worse than Windows/Linux builds.
 
-|                                                      |
-| <img src="https://s2.loli.net/2023/01/12/eELRgHvKJ4wlDWi.jpg" alt="WebGL" style="width:100%;"> |
-|                                                      |
-|                            WebGL                     |
-|                                                      |
-| <img src="https://s2.loli.net/2023/01/12/6vPGtyRx87K5zUo.jpg" alt="WebGL" style="width:100%;"> |
-|                                                      |
-|                          Windows                     |
+
+<img src="https://s2.loli.net/2023/01/12/eELRgHvKJ4wlDWi.jpg" alt="WebGL" style="width:100%;">
+##### WebGL
+<img src="https://s2.loli.net/2023/01/12/6vPGtyRx87K5zUo.jpg" alt="WebGL" style="width:100%;">
+##### Windows
 
 
 
