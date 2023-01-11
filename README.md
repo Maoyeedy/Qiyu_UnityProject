@@ -37,6 +37,7 @@ There's a [WebGL version](https://play.unity.com/mg/other/webgl-builds-295530) b
   <img src="https://s2.loli.net/2023/01/12/6vPGtyRx87K5zUo.jpg">
 </div>
 <a href="https://sm.ms/image/6vPGtyRx87K5zUo" target="_blank"><img src="https://s2.loli.net/2023/01/12/6vPGtyRx87K5zUo.jpg" ></a>
+![Windows.jpg](https://s2.loli.net/2023/01/12/6vPGtyRx87K5zUo.jpg)
 
 ### Clone the project
 - Clone with Github Desktop, as it has built-in support for Git LFS.
