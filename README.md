@@ -13,9 +13,10 @@
 ```bash
 git clone https://github.com/Maoyeedy/Qiyu_UnityProject.git
 ```
-
-- [x] Task 1
-- [ ] Task 2
-- [x] Task 3
-
-Scene Design
+### Scene Design
+![3](https://user-images.githubusercontent.com/100255436/211786724-860ffee3-45b3-4980-bbf7-9894fc002893.jpg)
+![2](https://user-images.githubusercontent.com/100255436/211786767-9cdd4978-83e9-450c-8ee1-f4223ef0fe1b.jpg)
+![6](https://user-images.githubusercontent.com/100255436/211786960-773ccc1d-f147-4e99-ae96-5097af666238.jpg)
+![5](https://user-images.githubusercontent.com/100255436/211786946-fbeec510-0d34-4852-938f-c5128cc8a1d0.jpg)
+![7](https://user-images.githubusercontent.com/100255436/211787022-75b8b2fa-83e8-4d67-aac8-e556580ca1f3.jpg)
+![8](https://user-images.githubusercontent.com/100255436/211787060-61d6a450-b1ba-48b4-929b-de3131960fa0.jpg)
