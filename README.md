@@ -26,10 +26,10 @@
 
 ### WebGL
 There's a [WebGL version](https://play.unity.com/mg/other/webgl-v1s) but it's not functional as intended:
-1. It may fail to load if you're using Chinese networking.
+1. Game may fail to load if you're using Chinese networking.
 2. The cursor can't go beyond screen border, so you'll have limited view angle.
 3. Lighting in Intro Scene is far worse than Windows/Linux builds.
-4. Models may randomly disappear when switching camera.
+4. Models may randomly disappear upon cam swtich.
 
 ### Get the project
 As the repo is sub 300MB, Git LFS won't be needed. You can directly clone or download repo as zip.
