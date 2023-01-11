@@ -25,11 +25,10 @@
 </div>
 
 ### WebGL
-There's a [WebGL version](https://play.unity.com/mg/other/webgl-v1s) but it's not functional as intended:
+There's a [WebGL version](https://play.unity.com/mg/other/webgl-builds-295530) but it's not functional as intended:
 1. Game may fail to load on Chinese networking.
-2. Cursor is limited to window border, resulting in a restricted view angle.
+2. Cursor is limited to window border, resulting in restricted view angle.
 3. Lighting in Intro Scene is far worse than Windows/Linux builds.
-4. Models may randomly disappear upon cam switch.
 
 ### Clone the project
 - Clone with Github Desktop, as it has built-in support for Git LFS.
