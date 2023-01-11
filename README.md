@@ -4,9 +4,6 @@
 - [ ]  Builds for Mac & WebGL
 - [ ]  Controller Support
 - [ ]  English Support
-- Supports Windows & Linux. Mac & WebGL not supported.
-- Mouse & Keyboard only. Controller support on schedule.
-- Chinese only. English support...maybe
 
 ### Play the game
 1. [百度网盘](https://pan.baidu.com/s/1fv9NreswIF_PM7yGrmtBtA?pwd=h63g)
@@ -32,3 +29,9 @@ As the repo is only 300MB, Git LFS won't be needed. You can directly clone or do
 ```bash
 git clone https://github.com/Maoyeedy/Qiyu_UnityProject.git
 ```
+
+### WebGL
+There's a [WebGL version](https://play.unity.com/mg/other/webgl-v1s) but it's not functional as intended:
+1. As mouse cursor can't go beyond window border, you'll have limited view angle in WebGL.
+2. You might fail to load the game if you're using Chinese networking.
+3. Lighting in Intro Scene is far worse than Windows/Linux builds.
