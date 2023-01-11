@@ -31,9 +31,9 @@ There's a [WebGL version](https://play.unity.com/mg/other/webgl-v1s) but it's no
 3. Lighting in Intro Scene is far worse than Windows/Linux builds.
 4. Models may randomly disappear upon cam switch.
 
-### Two ways of cloning the project
+### Clone the project
 - Clone with Github Desktop, as it has built-in support for Git LFS.
-- Install [Git LFS](https://git-lfs.com/) and clone with command line:
+- Alternately, install [Git LFS](https://git-lfs.com/) and clone with command line:
 ```bash
 git clone https://github.com/Maoyeedy/Qiyu_UnityProject.git
 ```
