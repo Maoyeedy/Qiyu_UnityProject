@@ -5,22 +5,6 @@
 - [ ]  Controller Support
 - [ ]  English Support
 
-### Play the game
-- [Github Release](https://github.com/Maoyeedy/Qiyu_UnityProject/releases)
-- [百度网盘](https://pan.baidu.com/s/1jNLDf6HgLhMtJjXes-VFRQ?pwd=2auj)
-
-Also, there's a [WebGL version](https://play.unity.com/mg/other/webgl-builds-295530) but it's not functional as intended:
-1. Game may fail to load on Chinese networking.
-2. Cursor is limited to window border, resulting in restricted view angle.
-3. Lighting in Intro Scene is far worse than Windows/Linux builds.
-
-<div style="width:100%">
-  <img src="https://s2.loli.net/2023/01/12/eELRgHvKJ4wlDWi.jpg">
-</div>
-<div style="width:100%">
-  <img src="https://s2.loli.net/2023/01/12/6vPGtyRx87K5zUo.jpg">
-</div>
-
 ### Screenshots
 <div style="width:100%">
   <img src="https://s2.loli.net/2023/01/11/lRDscAX735EfQ6h.jpg" style="width:49%;float:left; margin-right:2%">
@@ -33,6 +17,21 @@ Also, there's a [WebGL version](https://play.unity.com/mg/other/webgl-builds-295
 <div style="width:100%">
   <img src="https://s2.loli.net/2023/01/11/VrqDxtm9ylhvXdb.jpg" style="width:49%;float:left; margin-right:2%">
   <img src="https://s2.loli.net/2023/01/11/CBmMVpFIa3v1KyA.jpg" style="width:49%;float:right; margin-left:2%">
+</div>
+
+### Play the game
+- [Github Release](https://github.com/Maoyeedy/Qiyu_UnityProject/releases)
+- [百度网盘](https://pan.baidu.com/s/1jNLDf6HgLhMtJjXes-VFRQ?pwd=2auj)
+
+Also, there's a [WebGL version](https://play.unity.com/mg/other/webgl-builds-295530) but it won't deliver the optimal experience:
+1. Cursor is limited to window border, resulting in restricted view angle.
+2. Lighting in Intro scene is far worse than offline builds.
+
+<div style="width:100%">
+  <img src="https://s2.loli.net/2023/01/12/eELRgHvKJ4wlDWi.jpg">
+</div>
+<div style="width:100%">
+  <img src="https://s2.loli.net/2023/01/12/6vPGtyRx87K5zUo.jpg">
 </div>
 
 ### Clone the project
