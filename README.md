@@ -32,7 +32,8 @@ There's a [WebGL version](https://play.unity.com/mg/other/webgl-v1s) but it's no
 4. Models may randomly disappear upon cam switch.
 
 ### Get the project
-As the repo is sub 300MB, Git LFS won't be needed. You can directly clone or download repo as zip.
+This repo utilizes Git LFS. You will have to use Github Desktop to clone it.
+If you have Git LFS installed, you can directly use:
 ```bash
 git clone https://github.com/Maoyeedy/Qiyu_UnityProject.git
 ```
