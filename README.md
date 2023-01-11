@@ -1,7 +1,7 @@
 ![2](https://user-images.githubusercontent.com/100255436/211665714-782d981d-e8de-427d-bcbd-99a86bac1a81.jpg)
 ## [Showcase Video](https://www.bilibili.com/video/BV1vD4y1p7cu)
-- [x]  Builds for Windows & Linux
-- [ ]  Builds for Mac & WebGL
+- [x]  Builds for Windows & Linux & WebGL
+- [ ]  Builds for Mac
 - [ ]  Controller Support
 - [ ]  English Support
 
