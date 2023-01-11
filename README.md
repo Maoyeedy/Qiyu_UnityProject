@@ -1,6 +1,6 @@
 ![2](https://user-images.githubusercontent.com/100255436/211665714-782d981d-e8de-427d-bcbd-99a86bac1a81.jpg)
 ## [Showcase Video](https://www.bilibili.com/video/BV1vD4y1p7cu)
-- [x]  Builds for Windows & Linux & WebGL
+#### - [x]  Builds for Windows & Linux & WebGL
 - [ ]  Builds for Mac
 - [ ]  Controller Support
 - [ ]  English Support
@@ -25,7 +25,7 @@
 </div>
 
 ### WebGL
-There's a [WebGL version](https://play.unity.com/mg/other/webgl-v1s) but it's not functional as intended:
+#### There's a [WebGL version](https://play.unity.com/mg/other/webgl-v1s) but it's not functional as intended:
 1. Game may fail to load if you're using Chinese networking.
 2. The cursor can't go beyond screen border, so you'll have limited view angle.
 3. Lighting in Intro Scene is far worse than Windows/Linux builds.
