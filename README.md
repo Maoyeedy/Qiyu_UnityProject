@@ -23,7 +23,7 @@
 - [Github Release](https://github.com/Maoyeedy/Qiyu_UnityProject/releases)
 - [百度网盘](https://pan.baidu.com/s/1jNLDf6HgLhMtJjXes-VFRQ?pwd=2auj)
 
-Also, there's a [WebGL version](https://play.unity.com/mg/other/webgl-builds-295530) where you can enjoy the game online.However, it won't deliver the optimal experience:
+Also, there's a [WebGL version](https://play.unity.com/mg/other/webgl-builds-295530) where you can enjoy the game online.This version doesn't provide the best possible experience though:
 1. Cursor is limited to window border, resulting in restricted view angle.
 2. Lighting in Intro scene is far worse than offline builds.
 
