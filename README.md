@@ -32,9 +32,9 @@ There's a [WebGL version](https://play.unity.com/mg/other/webgl-builds-295530) b
 
 
 <img src="https://s2.loli.net/2023/01/12/eELRgHvKJ4wlDWi.jpg" alt="WebGL" style="width:100%;">
-##### WebGL
+#### WebGL
 <img src="https://s2.loli.net/2023/01/12/6vPGtyRx87K5zUo.jpg" alt="WebGL" style="width:100%;">
-##### Windows
+#### Windows
 
 
 
