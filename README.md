@@ -32,7 +32,7 @@ There's a [WebGL version](https://play.unity.com/mg/other/webgl-v1s) but it's no
 4. Models may randomly disappear upon cam switch.
 
 ### Get the project
-####There're two ways of cloning:
+#### There're two ways of cloning:
 1. Clone with Github Desktop, as it has built-in support for Git LFS.
 2. Install [Git LFS](https://git-lfs.com/) and clone with command line:
 ```bash
