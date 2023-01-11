@@ -11,8 +11,8 @@
 
 ### Screenshots
 <div style="display: flex;">
-  <img src="https://user-images.githubusercontent.com/100255436/211786724-860ffee3-45b3-4980-bbf7-9894fc002893.jpg" style="width: 50%; align-self: flex-start;">
-  <img src="https://user-images.githubusercontent.com/100255436/211786767-9cdd4978-83e9-450c-8ee1-f4223ef0fe1b.jpg" style="width: 50%; align-self: flex-end;">
+  <img src="https://user-images.githubusercontent.com/100255436/211786724-860ffee3-45b3-4980-bbf7-9894fc002893.jpg" style="width: 49.9%; align-self: flex-start;">
+  <img src="https://user-images.githubusercontent.com/100255436/211786767-9cdd4978-83e9-450c-8ee1-f4223ef0fe1b.jpg" style="width: 49.9%; align-self: flex-end;">
 </div>
 
 
