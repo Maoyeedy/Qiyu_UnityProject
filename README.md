@@ -23,10 +23,11 @@
 - [Github Release](https://github.com/Maoyeedy/Qiyu_UnityProject/releases)
 - [百度网盘](https://pan.baidu.com/s/1jNLDf6HgLhMtJjXes-VFRQ?pwd=2auj)
 
-Also, there's a [WebGL version](https://play.unity.com/mg/other/webgl-builds-295530) but it doesn't deliver the best possible experience:
+Also, there's a [WebGL version](https://play.unity.com/mg/other/webgl-builds-295530) but it delivers less optimal experience:
 1. Cursor is limited to window border, resulting in restricted view angle.
-2. Lighting in Intro scene is far worse than offline builds.
+2. Lighting in Intro Scene is far worse than offline builds.
 
+#### Comparison of WebGL and offline builds
 <div style="width:100%">
   <img src="https://s2.loli.net/2023/01/12/eELRgHvKJ4wlDWi.jpg">
 </div>
