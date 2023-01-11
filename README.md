@@ -26,8 +26,8 @@
 
 ### WebGL
 There's a [WebGL version](https://play.unity.com/mg/other/webgl-v1s) but it's not functional as intended:
-1. Game may fail to load if you're using Chinese networking.
-2. The cursor can't go beyond screen border, so you'll have limited view angle.
+1. Game may fail to load on Chinese networking.
+2. Cursor is limited to window border, resulting in a restricted view angle.
 3. Lighting in Intro Scene is far worse than Windows/Linux builds.
 4. Models may randomly disappear upon cam switch.
 
