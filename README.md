@@ -27,7 +27,6 @@ Also, there's a [WebGL version](https://play.unity.com/mg/other/webgl-builds-295
 1. Cursor is limited to window border, resulting in restricted view angle.
 2. Lighting in Intro Scene is far worse than offline builds.
 
-#### Comparison of WebGL and offline builds
 <div style="width:100%">
   <img src="https://s2.loli.net/2023/01/12/eELRgHvKJ4wlDWi.jpg">
 </div>
