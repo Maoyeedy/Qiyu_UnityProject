@@ -29,9 +29,7 @@ There's a [WebGL version](https://play.unity.com/mg/other/webgl-v1s) but it's no
 1. Game may fail to load on Chinese networking.
 2. Cursor is limited to window border, resulting in a restricted view angle.
 3. Lighting in Intro Scene is far worse than Windows/Linux builds.
-4. Lighting in *Intro Scene* is far worse than Windows/Linux builds.
-5. Lighting in **Intro Scene** is far worse than Windows/Linux builds.
-6. Models may randomly disappear upon cam switch.
+4. Models may randomly disappear upon cam switch.
 
 ### Clone the project
 - Clone with Github Desktop, as it has built-in support for Git LFS.
