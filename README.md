@@ -24,14 +24,14 @@
   <img src="https://user-images.githubusercontent.com/100255436/211787060-61d6a450-b1ba-48b4-929b-de3131960fa0.jpg" style="width:49%;float:right; margin-left:2%">
 </div>
 
-### Get the project
-As the repo is only 300MB, Git LFS won't be needed. You can directly clone or download repo as zip.
-```bash
-git clone https://github.com/Maoyeedy/Qiyu_UnityProject.git
-```
-
 ### WebGL
 There's a [WebGL version](https://play.unity.com/mg/other/webgl-v1s) but it's not functional as intended:
 1. As mouse cursor can't go beyond screen border, you'll have limited view angle.
 2. You might fail to load the game if you're using Chinese networking.
 3. Lighting in Intro Scene is far worse than Windows/Linux builds.
+
+### Get the project
+As the repo is only 300MB, Git LFS won't be needed. You can directly clone or download repo as zip.
+```bash
+git clone https://github.com/Maoyeedy/Qiyu_UnityProject.git
+```
