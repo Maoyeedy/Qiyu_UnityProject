@@ -6,8 +6,8 @@
 - [ ]  English Support
 
 ### Play the game
+- [WebGL](https://play.unity.com/mg/other/webgl-builds-295530)
 - [Github Release](https://github.com/Maoyeedy/Qiyu_UnityProject/releases)
-- [Google Drive](https://drive.google.com/drive/folders/1_oDC0mpXIAc013O8Lg83KPEgBYd-f68W?usp=share_link)
 - [百度网盘](https://pan.baidu.com/s/1jNLDf6HgLhMtJjXes-VFRQ?pwd=2auj)
 
 ### Screenshots
@@ -25,7 +25,7 @@
 </div>
 
 ### WebGL
-There's a [WebGL version](https://play.unity.com/mg/other/webgl-builds-295530) but it's not functional as intended:
+The [WebGL version](https://play.unity.com/mg/other/webgl-builds-295530) is not functional as intended:
 1. Game may fail to load on Chinese networking.
 2. Cursor is limited to window border, resulting in restricted view angle.
 3. Lighting in Intro Scene is far worse than Windows/Linux builds.
