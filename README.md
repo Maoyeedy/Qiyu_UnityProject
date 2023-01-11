@@ -6,9 +6,9 @@
 - [ ]  English Support
 
 ### Play the game
-1. [百度网盘](https://pan.baidu.com/s/1jNLDf6HgLhMtJjXes-VFRQ?pwd=2auj)
+1. [Github Release](https://github.com/Maoyeedy/Qiyu_UnityProject/releases)
 2. [Google Drive](https://drive.google.com/drive/folders/1_oDC0mpXIAc013O8Lg83KPEgBYd-f68W?usp=share_link)
-3. [Github Release](https://github.com/Maoyeedy/Qiyu_UnityProject/releases)
+3. [百度网盘](https://pan.baidu.com/s/1jNLDf6HgLhMtJjXes-VFRQ?pwd=2auj)
 
 ### Screenshots
 <div style="width:100%">
