@@ -3,9 +3,6 @@
 - Have builds for Windows/Linux.
 - Mouse & Keyboard only. Controller support on schedule.
 - Chinese only. English support...maybe
-- [x]  Builds for Windows/Linux.
-- [ ]  Controller support
-- [ ]  English support
 
 ### Play the game
 1. [百度网盘](https://pan.baidu.com/s/1fv9NreswIF_PM7yGrmtBtA?pwd=h63g)
