@@ -19,10 +19,10 @@ git clone https://github.com/Maoyeedy/Qiyu_UnityProject.git
 - [x] Task 3
 
 <details>
-### <summary>Scene Design</summary>
+  <summary>Scene Design</summary>
 
-- Subtask 1
-- Subtask 2
-- Subtask 3
+  - Subtask 1
+  - Subtask 2
+  - Subtask 3
 
 </details>
