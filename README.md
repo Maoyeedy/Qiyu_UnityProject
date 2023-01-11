@@ -29,6 +29,8 @@ There's a [WebGL version](https://play.unity.com/mg/other/webgl-builds-295530) b
 1. Game may fail to load on Chinese networking.
 2. Cursor is limited to window border, resulting in restricted view angle.
 3. Lighting in Intro Scene is far worse than Windows/Linux builds.
+![WebGL.jpg](https://s2.loli.net/2023/01/12/eELRgHvKJ4wlDWi.jpg)
+![Windows.jpg](https://s2.loli.net/2023/01/12/6vPGtyRx87K5zUo.jpg)
 
 ### Clone the project
 - Clone with Github Desktop, as it has built-in support for Git LFS.
