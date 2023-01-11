@@ -35,6 +35,12 @@ There's a [WebGL version](https://play.unity.com/mg/other/webgl-builds-295530) b
   <img src="https://s2.loli.net/2023/01/12/6vPGtyRx87K5zUo.jpg" style="width:49%;float:right; margin-left:2%">
 </div>
 
+<figure>
+  <img src="https://s2.loli.net/2023/01/12/eELRgHvKJ4wlDWi.jpg" alt="WebGL" style="width:100%;">
+  <figcaption>WebGL</figcaption>
+</figure>
+
+
 ### Clone the project
 - Clone with Github Desktop, as it has built-in support for Git LFS.
 - Alternately, install [Git LFS](https://git-lfs.com/) and clone with command line:
