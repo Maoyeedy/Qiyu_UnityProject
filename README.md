@@ -1,5 +1,5 @@
 ![2](https://user-images.githubusercontent.com/100255436/211665714-782d981d-e8de-427d-bcbd-99a86bac1a81.jpg)
-### [Showcase Video](https://www.bilibili.com/video/BV1vD4y1p7cu)
+#### [Showcase Video](https://www.bilibili.com/video/BV1vD4y1p7cu)
 - Have builds for Windows/Linux.
 - Mouse & Keyboard only. Controller support on schedule.
 - Chinese only. English support...maybe
@@ -13,3 +13,16 @@
 ```bash
 git clone https://github.com/Maoyeedy/Qiyu_UnityProject.git
 ```
+
+- [x] Task 1
+- [ ] Task 2
+- [x] Task 3
+
+<details>
+<summary>Scene Design</summary>
+
+- Subtask 1
+- Subtask 2
+- Subtask 3
+
+</details>
