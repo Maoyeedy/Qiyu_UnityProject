@@ -6,9 +6,9 @@
 - [ ]  English Support
 
 ### Play the game
-1. [Github Release](https://github.com/Maoyeedy/Qiyu_UnityProject/releases)
-2. [Google Drive](https://drive.google.com/drive/folders/1_oDC0mpXIAc013O8Lg83KPEgBYd-f68W?usp=share_link)
-3. [百度网盘](https://pan.baidu.com/s/1jNLDf6HgLhMtJjXes-VFRQ?pwd=2auj)
+- [Github Release](https://github.com/Maoyeedy/Qiyu_UnityProject/releases)
+- [Google Drive](https://drive.google.com/drive/folders/1_oDC0mpXIAc013O8Lg83KPEgBYd-f68W?usp=share_link)
+- [百度网盘](https://pan.baidu.com/s/1jNLDf6HgLhMtJjXes-VFRQ?pwd=2auj)
 
 ### Screenshots
 <div style="width:100%">
@@ -33,8 +33,8 @@
 
 ### Get the project
 #### There're two ways of cloning:
-1. Clone with Github Desktop, as it has built-in support for Git LFS.
-2. Install [Git LFS](https://git-lfs.com/) and clone with command line:
+- Clone with Github Desktop, as it has built-in support for Git LFS.
+- Install [Git LFS](https://git-lfs.com/) and clone with command line:
 ```bash
 git clone https://github.com/Maoyeedy/Qiyu_UnityProject.git
 ```
