@@ -35,10 +35,14 @@ There's a [WebGL version](https://play.unity.com/mg/other/webgl-builds-295530) b
   <img src="https://s2.loli.net/2023/01/12/6vPGtyRx87K5zUo.jpg" style="width:49%;float:right; margin-left:2%">
 </div>
 
-<figure>
-  <img src="https://s2.loli.net/2023/01/12/eELRgHvKJ4wlDWi.jpg" alt="WebGL" style="width:100%;">
-  <figcaption>WebGL</figcaption>
-</figure>
+<div style="width:100%">
+  <img src="https://s2.loli.net/2023/01/12/eELRgHvKJ4wlDWi.jpg">
+</div>
+
+<div style="width:100%">
+  <img src="https://s2.loli.net/2023/01/12/6vPGtyRx87K5zUo.jpg">
+</div>
+
 
 
 ### Clone the project
