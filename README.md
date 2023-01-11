@@ -12,3 +12,5 @@
 ```bash
 git clone https://github.com/Maoyeedy/Qiyu_UnityProject.git
 ```
+
+### [Showcase Video](https://www.bilibili.com/video/BV1vD4y1p7cu)
