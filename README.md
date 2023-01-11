@@ -13,13 +13,8 @@
 <img src="https://user-images.githubusercontent.com/100255436/211786724-860ffee3-45b3-4980-bbf7-9894fc002893.jpg" width="49%"><img src="https://user-images.githubusercontent.com/100255436/211786767-9cdd4978-83e9-450c-8ee1-f4223ef0fe1b.jpg" width="49%">
 
 <div style="width:100%">
-  <img src="https://user-images.githubusercontent.com/100255436/211786724-860ffee3-45b3-4980-bbf7-9894fc002893.jpg" style="width:49%;float:left; margin-right:8%">
-  <img src="https://user-images.githubusercontent.com/100255436/211786767-9cdd4978-83e9-450c-8ee1-f4223ef0fe1b.jpg" style="width:49%;float:right; margin-left:8%">
-</div>
-
-<div style="width:100%">
-  <img src="https://user-images.githubusercontent.com/100255436/211786724-860ffee3-45b3-4980-bbf7-9894fc002893.jpg" style="width:48%;float:left; margin-right:4%">
-  <img src="https://user-images.githubusercontent.com/100255436/211786767-9cdd4978-83e9-450c-8ee1-f4223ef0fe1b.jpg" style="width:48%;float:right; margin-left:4%">
+  <img src="https://user-images.githubusercontent.com/100255436/211786724-860ffee3-45b3-4980-bbf7-9894fc002893.jpg" style="width:49%;float:left>
+  <img src="https://user-images.githubusercontent.com/100255436/211786767-9cdd4978-83e9-450c-8ee1-f4223ef0fe1b.jpg" style="width:49%;float:right>
 </div>
 
 ### Get the project
