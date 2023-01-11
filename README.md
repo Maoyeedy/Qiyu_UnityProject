@@ -26,9 +26,10 @@
 
 ### WebGL
 There's a [WebGL version](https://play.unity.com/mg/other/webgl-v1s) but it's not functional as intended:
-1. As mouse cursor can't go beyond screen border, you'll have limited view angle.
+1. The cursor can't go beyond screen border, so you'll have limited view angle.
 2. You might fail to load the game if you're using Chinese networking.
 3. Lighting in Intro Scene is far worse than Windows/Linux builds.
+4. Models may randomly disappear when switching camera.
 
 ### Get the project
 As the repo is only 300MB, Git LFS won't be needed. You can directly clone or download repo as zip.
