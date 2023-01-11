@@ -10,7 +10,7 @@
 3. [Github Release](https://github.com/Maoyeedy/Qiyu_UnityProject/releases)
 
 ### Screenshots
-<img src="https://user-images.githubusercontent.com/100255436/211786724-860ffee3-45b3-4980-bbf7-9894fc002893.jpg" width="49%"><img src="https://user-images.githubusercontent.com/100255436/211786767-9cdd4978-83e9-450c-8ee1-f4223ef0fe1b.jpg" width="49%">
+
 
 <div style="width:100%">
   <img src="https://user-images.githubusercontent.com/100255436/211786724-860ffee3-45b3-4980-bbf7-9894fc002893.jpg" style="width:49%;float:left>
