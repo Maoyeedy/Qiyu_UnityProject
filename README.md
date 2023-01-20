@@ -4,7 +4,7 @@
 - [ ]  Controller Support
 - [ ]  English Support
 
-## [Play the game](https://www.maoyeedy.tk/Qiyu/index.html)
+## [Play Qiyu Online](https://www.maoyeedy.tk/Qiyu/index.html)
 Above is the link for WebGL version. Alternately, you can get offline builds here:
 - [Github Release](https://github.com/Maoyeedy/Qiyu_UnityProject/releases)
 - [百度网盘](https://pan.baidu.com/s/1jNLDf6HgLhMtJjXes-VFRQ?pwd=2auj)
