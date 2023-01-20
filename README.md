@@ -15,7 +15,7 @@ Also, there's a [WebGL version](https://play.unity.com/mg/other/webgl-builds-295
 ![WebGL.jpg](https://s2.loli.net/2023/01/12/w5mAzb8dvfE9DsJ.jpg)
 ![Windows.jpg](https://s2.loli.net/2023/01/12/cLVuXR6EeTplW8F.jpg)
 
-### Screenshots
+## Screenshots
 <div style="width:100%">
   <img src="https://s2.loli.net/2023/01/11/lRDscAX735EfQ6h.jpg" style="width:49%;float:left; margin-right:2%">
   <img src="https://s2.loli.net/2023/01/11/WCPDGzETcSqs26f.jpg" style="width:49%;float:right; margin-left:2%">
@@ -29,7 +29,7 @@ Also, there's a [WebGL version](https://play.unity.com/mg/other/webgl-builds-295
   <img src="https://s2.loli.net/2023/01/11/CBmMVpFIa3v1KyA.jpg" style="width:49%;float:right; margin-left:2%">
 </div>
 
-### Clone the project
+## Clone the project
 - Clone with Github Desktop, as it has built-in support for Git LFS.
 - Alternately, install [Git LFS](https://git-lfs.com/) and clone with command line:
 ```bash
