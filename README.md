@@ -1,10 +1,5 @@
 ![2](https://user-images.githubusercontent.com/100255436/211665714-782d981d-e8de-427d-bcbd-99a86bac1a81.jpg)
-## [Showcase Video](https://www.bilibili.com/video/BV1vD4y1p7cu)
-- [x]  Builds for Windows & Linux & WebGL
-- [ ]  Controller Support
-- [ ]  English Support
-
-## [Play Qiyu Online](https://www.maoyeedy.tk/Qiyu/index.html)
+## [Play the game in browser](https://www.maoyeedy.tk/Qiyu/index.html)
 Above is the link for WebGL version. Alternately, you can get offline builds here:
 - [Github Release](https://github.com/Maoyeedy/Qiyu_UnityProject/releases)
 - [百度网盘](https://pan.baidu.com/s/1jNLDf6HgLhMtJjXes-VFRQ?pwd=2auj)
