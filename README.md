@@ -10,6 +10,7 @@ Above is the link for WebGL version. Alternately, you can get offline builds her
 - [百度网盘](https://pan.baidu.com/s/1jNLDf6HgLhMtJjXes-VFRQ?pwd=2auj)
 
 For offline builds, lighting in Intro Scene is way better than WebGL version:
+
 ![WebGL.jpg](https://s2.loli.net/2023/01/12/w5mAzb8dvfE9DsJ.jpg)
 ![Windows.jpg](https://s2.loli.net/2023/01/12/cLVuXR6EeTplW8F.jpg)
 
