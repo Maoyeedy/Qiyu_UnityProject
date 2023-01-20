@@ -1,6 +1,6 @@
 ![2](https://user-images.githubusercontent.com/100255436/211665714-782d981d-e8de-427d-bcbd-99a86bac1a81.jpg)
 
-# [点此查看中文版项目介绍](https://maoyeedy.noto.so/Qiyu)
+# [点此查看简体中文项目介绍](https://maoyeedy.noto.so/Qiyu)
 
 ### [Play WebGL version](https://www.maoyeedy.tk/Qiyu/index.html)
 Alternately, you can get offline builds here:
