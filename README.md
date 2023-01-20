@@ -4,14 +4,12 @@
 - [ ]  Controller Support
 - [ ]  English Support
 
-## Play the game
+## [Play the game](https://www.maoyeedy.tk/Qiyu/index.html)
+Above is the link for WebGL version. Alternately, you can get offline builds here:
 - [Github Release](https://github.com/Maoyeedy/Qiyu_UnityProject/releases)
 - [百度网盘](https://pan.baidu.com/s/1jNLDf6HgLhMtJjXes-VFRQ?pwd=2auj)
 
-Also, there's a [WebGL version](https://play.unity.com/mg/other/webgl-builds-295530) but it delivers less optimal experience:
-1. Cursor is limited to window border, resulting in restricted view angle.
-2. Lighting in Intro Scene is far worse than offline builds.
-
+For offline builds, lighting in Intro Scene is way better than WebGL version:
 ![WebGL.jpg](https://s2.loli.net/2023/01/12/w5mAzb8dvfE9DsJ.jpg)
 ![Windows.jpg](https://s2.loli.net/2023/01/12/cLVuXR6EeTplW8F.jpg)
 
