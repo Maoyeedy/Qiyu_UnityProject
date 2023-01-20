@@ -1,6 +1,6 @@
 ![2](https://user-images.githubusercontent.com/100255436/211665714-782d981d-e8de-427d-bcbd-99a86bac1a81.jpg)
-## [Play the game in browser](https://www.maoyeedy.tk/Qiyu/index.html)
-Above is the link for WebGL version. Alternately, you can get offline builds here:
+## [Play WebGL version](https://www.maoyeedy.tk/Qiyu/index.html)
+Alternately, you can get offline builds here:
 - [Github Release](https://github.com/Maoyeedy/Qiyu_UnityProject/releases)
 - [百度网盘](https://pan.baidu.com/s/1jNLDf6HgLhMtJjXes-VFRQ?pwd=2auj)
 
