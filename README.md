@@ -4,7 +4,7 @@
 - [ ]  Controller Support
 - [ ]  English Support
 
-### Play the game
+## Play the game
 - [Github Release](https://github.com/Maoyeedy/Qiyu_UnityProject/releases)
 - [百度网盘](https://pan.baidu.com/s/1jNLDf6HgLhMtJjXes-VFRQ?pwd=2auj)
 
