@@ -28,7 +28,7 @@ public class Scanner : MonoBehaviour
         _progress = Math.Min(_progress, 100);
         progressText.text = $"扫描进度：{_progress:F1} %";
 
-        if (_progress == 100)
+        if (Math.Abs(_progress - 100) < 0.01f)
         {
             _gameFinished = true;
             tipText.text = "扫描完成\n请按 Tab 退出扫描";

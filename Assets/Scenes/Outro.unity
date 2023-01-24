@@ -8904,7 +8904,7 @@ MonoBehaviour:
   fps: {fileID: 1197268800}
   fpsCam: {fileID: 529498344}
   tip1: "\u6309 Esc \u5207\u6362\u81F3\u62CD\u7167\u6A21\u5F0F"
-  tip2: "\u622A\u56FE\u5C06\u4FDD\u5B58\u81F3 D:\\Screenshots"
+  tip2: "\u6309 Esc \u5207\u6362\u81F3\u62CD\u7167\u6A21\u5F0F"
   textComponent: {fileID: 1566112949}
 --- !u!224 &1897503830 stripped
 RectTransform:
@@ -10008,7 +10008,7 @@ PrefabInstance:
     - target: {fileID: 114657890492222300, guid: b17ca2d71fe5b86408c69410fddc3f68,
         type: 3}
       propertyPath: sensitivity
-      value: 1.75
+      value: 1.25
       objectReference: {fileID: 0}
     - target: {fileID: 114762042097486276, guid: b17ca2d71fe5b86408c69410fddc3f68,
         type: 3}

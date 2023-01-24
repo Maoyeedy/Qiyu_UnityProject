@@ -72,8 +72,8 @@ public class SceneToScene : SwitchScene
         var playerAnimator = player.GetComponent<Animator>();
         playerAnimator.enabled = false;
 
-        // _input.horizontalInput = null;
-        // _input.verticallInput = null;
+        _input.horizontalInput = null;
+        _input.verticallInput = null;
     }
 
     private void GetChromaticAberration()

@@ -20,10 +20,7 @@ public class GroundCheck : MonoBehaviour
 
     private void LateUpdate()
     {
-        if (haveOceanInScene)
-            _isGroundedNow = Physics.Raycast(RaycastOrigin, Vector3.down, distanceThreshold * 2, ~oceanLayer);
-        else
-            _isGroundedNow = Physics.Raycast(RaycastOrigin, Vector3.down, distanceThreshold * 2);
+        _isGroundedNow = haveOceanInScene ? Physics.Raycast(RaycastOrigin, Vector3.down, distanceThreshold * 2, ~oceanLayer) : Physics.Raycast(RaycastOrigin, Vector3.down, distanceThreshold * 2);
 
         if (_isGroundedNow && !isGrounded)
             landing.Play();
