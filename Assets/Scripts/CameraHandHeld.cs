@@ -4,8 +4,8 @@ public class HandheldCamera : MonoBehaviour
 {
     public float shakeAmount = 0.5f;
     public float shakeDuration = 5f, shakeSpeed = 0.05f, randomFactor = 0.5f;
-    private float _timer;
     private Vector3 _targetPosition;
+    private float _timer;
 
     private void Start()
     {

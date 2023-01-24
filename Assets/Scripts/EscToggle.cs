@@ -5,8 +5,8 @@ public class EscToggleUI : MonoBehaviour
     public GameObject escUI, cam;
     public vThirdPersonCamera thirdPersonCam;
     public bool escFreezesTime = true, escHidesOtherUI = true;
-    private bool _uiOn;
     private GameObject[] _ui;
+    private bool _uiOn;
 
     private void Start()
     {

@@ -1,5 +1,5 @@
-using UnityEngine;
 using TMPro;
+using UnityEngine;
 using Random = System.Random;
 
 public class Dna : MonoBehaviour
@@ -15,16 +15,16 @@ public class Dna : MonoBehaviour
     public TextMeshProUGUI textComponent;
     public Progress progress;
     public ProgressFade progressFade;
+    private AudioSource _bingo;
+    private bool _gameFinished, _canPressEnter = true;
 
     private int _index;
-    private bool _gameFinished, _canPressEnter = true;
     private GameObject _letter;
+    private GameObject[] _lettersInstantiated;
     private Transform _letterTransform;
     private Rigidbody2D _rb;
-    private Vector3 _scale;
     private Quaternion _rotation;
-    private GameObject[] _lettersInstantiated;
-    private AudioSource _bingo;
+    private Vector3 _scale;
 
     private void Start()
     {

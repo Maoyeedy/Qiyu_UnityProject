@@ -1,5 +1,5 @@
-using UnityEngine;
 using TMPro;
+using UnityEngine;
 using UnityEngine.UI;
 
 public class Progress : MonoBehaviour
@@ -7,11 +7,11 @@ public class Progress : MonoBehaviour
     public int scorePerGame = 25;
     public GameObject finishDialog;
     public RectMask2D mask;
+    private bool _dnaFinished;
+    private TextMeshProUGUI _goalText;
+    private int _internalScoreCount;
 
     private float _transitionTime;
-    private bool _dnaFinished;
-    private int _internalScoreCount;
-    private TextMeshProUGUI _goalText;
 
     private void Start()
     {

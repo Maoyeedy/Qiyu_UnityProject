@@ -1,9 +1,10 @@
 using System;
+using System.Collections;
 using System.IO;
 using Invector.vCharacterController;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 using UnityEngine.Rendering.PostProcessing;
+using UnityEngine.SceneManagement;
 
 public class CameraPhotoMode : MonoBehaviour
 {
@@ -14,14 +15,14 @@ public class CameraPhotoMode : MonoBehaviour
     public float mouseSensitivity = 4f;
     [Header("Other Setting")] public string screenshotDirectory = "D:\\Screenshots";
     public bool disableThirdPersonPlayer;
-    private int _screenshotIndex;
-    private string _scene;
-    private Camera _mainCamera;
-    private Transform _transform;
-    private FloatParameter _focalLength;
     private float _defaultFocalLength;
-    private GameObject[] _ui;
+    private FloatParameter _focalLength;
+    private Camera _mainCamera;
+    private string _scene;
+    private int _screenshotIndex;
     private bool _thirdPersonDisabled;
+    private Transform _transform;
+    private GameObject[] _ui;
 
 
     private void Start()
@@ -127,7 +128,7 @@ public class CameraPhotoMode : MonoBehaviour
         StartCoroutine(DelayOneFrame());
     }
 
-    private System.Collections.IEnumerator DelayOneFrame()
+    private IEnumerator DelayOneFrame()
     {
         yield return null;
         foreach (var x in _ui) x.SetActive(true);

@@ -2,15 +2,14 @@ using UnityEngine;
 
 public class GroundCheck : MonoBehaviour
 {
+    private const float OriginOffset = .001f;
     public AudioSource landing, jumping;
     public float distanceThreshold = .15f;
     public bool isGrounded = true, haveOceanInScene;
     public LayerMask oceanLayer;
-
-    private const float OriginOffset = .001f;
-    private Vector3 RaycastOrigin => transform.position + Vector3.up * OriginOffset;
-    private float RaycastDistance => distanceThreshold + OriginOffset;
     private bool _isGroundedNow;
+    private Vector3 raycastOrigin => transform.position + Vector3.up * OriginOffset;
+    private float raycastDistance => distanceThreshold + OriginOffset;
 
     private void Start()
     {
@@ -20,7 +19,7 @@ public class GroundCheck : MonoBehaviour
 
     private void LateUpdate()
     {
-        _isGroundedNow = haveOceanInScene ? Physics.Raycast(RaycastOrigin, Vector3.down, distanceThreshold * 2, ~oceanLayer) : Physics.Raycast(RaycastOrigin, Vector3.down, distanceThreshold * 2);
+        _isGroundedNow = haveOceanInScene ? Physics.Raycast(raycastOrigin, Vector3.down, distanceThreshold * 2, ~oceanLayer) : Physics.Raycast(raycastOrigin, Vector3.down, distanceThreshold * 2);
 
         if (_isGroundedNow && !isGrounded)
             landing.Play();
@@ -33,7 +32,7 @@ public class GroundCheck : MonoBehaviour
 
     private void OnDrawGizmosSelected()
     {
-        Debug.DrawLine(RaycastOrigin, RaycastOrigin + Vector3.down * RaycastDistance,
+        Debug.DrawLine(raycastOrigin, raycastOrigin + Vector3.down * raycastDistance,
             isGrounded ? Color.white : Color.red);
     }
 }

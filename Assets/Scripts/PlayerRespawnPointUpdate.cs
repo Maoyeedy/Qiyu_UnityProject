@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.Rendering.PostProcessing;
 
@@ -13,11 +14,11 @@ public class RespawnPointUpdate : MonoBehaviour
     public float switchCamDuration = 2.5f;
     public float apertureDelta = 0.2f;
     public float focusDelta = -0.1f;
-    private GameObject _player;
+    private DepthOfField _depthOfField;
 
     private float _distanceToGameObject;
     private bool _hasZoomed, _hasSwitched, _dofStatus, _hasUpdated;
-    private DepthOfField _depthOfField;
+    private GameObject _player;
 
     private void Start()
     {
@@ -49,7 +50,7 @@ public class RespawnPointUpdate : MonoBehaviour
         }
     }
 
-    private System.Collections.IEnumerator SwitchCam()
+    private IEnumerator SwitchCam()
     {
         if (!_hasSwitched)
         {

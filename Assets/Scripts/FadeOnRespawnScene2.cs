@@ -4,8 +4,8 @@ public class FadeOnRespawnScene2 : Fade
 {
     public float killFloorHeight = -2f, respawnDelay = 0.5f, zeroToOneDuration = 0.1f;
     public GameObject text;
-    private GameObject _player;
     private bool _isDead;
+    private GameObject _player;
 
     private void Start()
     {

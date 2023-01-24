@@ -1,6 +1,6 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
 using UnityEngine.Rendering.PostProcessing;
+using UnityEngine.SceneManagement;
 
 public class EndScreen : Fade
 {
@@ -8,9 +8,9 @@ public class EndScreen : Fade
     public GameObject thirdPersonPlayer;
     public GameObject firstPersonPlayer;
     public GameObject afterEndScreen;
-    private DepthOfField _depthOfField;
     public bool playAudio;
     public AudioSource audioSus;
+    private DepthOfField _depthOfField;
 
     private void Start()
     {

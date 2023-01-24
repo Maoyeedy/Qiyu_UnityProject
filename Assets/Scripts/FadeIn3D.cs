@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class FadeIn3D : MonoBehaviour
@@ -7,9 +8,9 @@ public class FadeIn3D : MonoBehaviour
     public bool haveCollider;
     public bool fadeOutOnStart;
     public bool fadeInOnStart;
-    private Material _material;
-    private Color _color;
     private Collider _collider;
+    private Color _color;
+    private Material _material;
 
     private void Start()
     {
@@ -34,7 +35,7 @@ public class FadeIn3D : MonoBehaviour
         }
     }
 
-    public System.Collections.IEnumerator FadeIn()
+    public IEnumerator FadeIn()
     {
         yield return new WaitForSeconds(waitForSeconds);
         LeanTween.value(gameObject, UpdateAlpha, 0f, 1f, fadeDuration);
@@ -42,7 +43,7 @@ public class FadeIn3D : MonoBehaviour
             _collider.enabled = true;
     }
 
-    public System.Collections.IEnumerator FadeOut()
+    public IEnumerator FadeOut()
     {
         yield return new WaitForSeconds(waitForSeconds);
         LeanTween.value(gameObject, UpdateAlpha, 1f, 0f, fadeDuration);

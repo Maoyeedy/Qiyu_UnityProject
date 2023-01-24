@@ -1,16 +1,15 @@
 using UnityEngine;
 using UnityEngine.Rendering.PostProcessing;
-using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class EscSettings : MonoBehaviour
 {
     public PostProcessVolume postProcessVolume;
     public float sliderFactor = 1f;
-
-    private ScreenSpaceReflections _ssr;
     private DepthOfField _depthOfField;
     private string _sceneName;
+    private ScreenSpaceReflections _ssr;
 
     private void Start()
     {

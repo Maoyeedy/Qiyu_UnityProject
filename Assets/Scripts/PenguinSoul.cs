@@ -10,9 +10,9 @@ public class PenguinSoul : DialogDisplay
     public float pingPongFactor = 0.15f, pingPongLoop = 2.5f;
     public bool isOutro;
     public GameObject cam1, cam2;
-    private float _defaultYOffset, _defaultPingPongFactor;
-    private Vector3 _defaultTransform, _desiredPosition;
     private Quaternion _defaultRotation;
+    private Vector3 _defaultTransform, _desiredPosition;
+    private float _defaultYOffset, _defaultPingPongFactor;
     private bool _dialogIsPlaying;
 
     private void Start()

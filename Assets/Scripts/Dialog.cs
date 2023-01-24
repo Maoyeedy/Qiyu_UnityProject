@@ -1,6 +1,6 @@
-using UnityEngine;
-using TMPro;
 using System.Collections;
+using TMPro;
+using UnityEngine;
 using UnityEngine.Rendering.PostProcessing;
 
 public class Dialog : MonoBehaviour
@@ -20,11 +20,11 @@ public class Dialog : MonoBehaviour
     public PenguinSoul penguinSoul;
     public float apertureDelta = 0.2f;
     public float focusDelta = -0.1f;
+    private DepthOfField _depthOfField;
+    private float _elapsedTime;
 
     private int _index;
-    private float _elapsedTime;
     private bool _uiOn, _dofStatus, _dialogFinished;
-    private DepthOfField _depthOfField;
 
     private void Start()
     {

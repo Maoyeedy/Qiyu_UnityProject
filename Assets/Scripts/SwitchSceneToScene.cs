@@ -18,10 +18,10 @@ public class SceneToScene : SwitchScene
     public GameObject ui;
 
     private vThirdPersonCamera _cam;
-    private vThirdPersonInput _input;
     private ChromaticAberration _chromaticAberration;
-    private LensDistortion _lensDistortion;
     private bool _hasEntered;
+    private vThirdPersonInput _input;
+    private LensDistortion _lensDistortion;
 
     private void Start()
     {
@@ -34,6 +34,12 @@ public class SceneToScene : SwitchScene
         _input = player.GetComponent<vThirdPersonInput>();
 
         switchSceneFade.fadeDuration = transitionTime - 0.5f;
+    }
+
+    private void Update()
+    {
+        if (stopSceneMusic && _hasEntered)
+            SceneMusicFadeOut();
     }
 
     private void OnTriggerEnter(Collider other)
@@ -57,12 +63,6 @@ public class SceneToScene : SwitchScene
             if (disableUIOnEnter)
                 ui.SetActive(false);
         }
-    }
-
-    private void Update()
-    {
-        if (stopSceneMusic && _hasEntered)
-            SceneMusicFadeOut();
     }
 
     private void FreezePlayer()

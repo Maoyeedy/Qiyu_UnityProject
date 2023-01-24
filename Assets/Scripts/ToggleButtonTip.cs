@@ -3,9 +3,9 @@ using UnityEngine;
 public class ToggleOnScreenTip : MonoBehaviour
 {
     public GameObject tipText;
+    private bool _inRange;
     private Penguin _penguin;
     private Fade _text;
-    private bool _inRange;
 
     private void Start()
     {

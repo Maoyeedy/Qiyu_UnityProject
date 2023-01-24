@@ -2,9 +2,9 @@ using UnityEngine;
 
 public class ToggleTipScene0 : Fade
 {
-    private bool _returnPressed, _leftClicked, _rightClicked;
     public bool isTip1, isTip2;
     public GameObject tip2;
+    private bool _returnPressed, _leftClicked, _rightClicked;
 
     private void Start()
     {

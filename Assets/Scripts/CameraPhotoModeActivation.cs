@@ -7,9 +7,9 @@ public class ActivatePhotoMode : MonoBehaviour
     public string 操作方式 = "截图 - Tab\n移动相机位置 - WASDQE\n移动相机视角 - 按住右键并移动鼠标\n改变相机视野与移速 - 滑动鼠标滚轮";
     [Header("Settings")] public GameObject photoModeCam;
     public bool scene0DisableIntroTimeline;
-    private bool _photoModeOn;
     private CameraPhotoMode _cam;
     private EscToggleUI _esc;
+    private bool _photoModeOn;
 
     private void Start()
     {

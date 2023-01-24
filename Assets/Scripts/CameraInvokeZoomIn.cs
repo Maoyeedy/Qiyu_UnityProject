@@ -4,9 +4,9 @@ public class ZoomIn : MonoBehaviour
 {
     public CameraZoom zoom;
     public float range;
-    private GameObject _player;
     private float _distanceToGameObject;
     private bool _hasEnteredRange;
+    private GameObject _player;
 
     private void Start()
     {

@@ -9,14 +9,14 @@ public class DialogDisplay : MonoBehaviour
     public float delay = 1f;
     public bool haveTipText;
     public GameObject tipText;
-    protected GameObject Player;
-    protected float DistanceToGameObject;
-    protected bool DialogDisplayed, InRange, AlreadyActivated;
 
     [Header("For Scene 1 Portal")] public bool activatePenguinSoul;
     public PenguinSoul penguinSoul;
     [Header("For Scene 2 Portal")] public bool activatePortal;
     public GameObject portal;
+    protected bool DialogDisplayed, InRange, AlreadyActivated;
+    protected float DistanceToGameObject;
+    protected GameObject Player;
 
     private void Awake()
     {

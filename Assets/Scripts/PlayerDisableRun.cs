@@ -4,9 +4,9 @@ using UnityEngine;
 public class PlayerDisableRun : MonoBehaviour
 {
     public float range = 6f;
-    private GameObject _player;
     private vThirdPersonInput _controller;
     private float _distanceToGameObject;
+    private GameObject _player;
 
     private void Start()
     {
