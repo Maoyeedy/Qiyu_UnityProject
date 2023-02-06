@@ -2,7 +2,7 @@
 
 # [查看简体中文项目介绍](https://maoyeedy.noto.so/Qiyu)
 
-### [Play WebGL version](https://www.maoyeedy.tk/Qiyu/index.html)
+### [Play WebGL version](https://maoyeedy.cyou/qiyu/index.html)
 Alternately, you can get offline builds here:
 - [Github Release](https://github.com/Maoyeedy/Qiyu_UnityProject/releases)
 - [百度网盘](https://pan.baidu.com/s/1jNLDf6HgLhMtJjXes-VFRQ?pwd=2auj)
